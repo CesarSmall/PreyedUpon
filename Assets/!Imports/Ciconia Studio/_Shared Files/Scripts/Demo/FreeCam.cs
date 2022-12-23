@@ -45,7 +45,7 @@ public class FreeCam : MonoBehaviour
     public float fastZoomSensitivity = 50f;
 
     /// <summary>
-    /// Set to true when free looking (on right mouse button).
+    /// SetItemCounters to true when free looking (on right mouse button).
     /// </summary>
     private bool looking = false;
 
